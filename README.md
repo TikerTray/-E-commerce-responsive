@@ -1,1 +1,1 @@
-# -E-commerce-responsive
+# E-commerce-responsive
